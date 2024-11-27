@@ -6,7 +6,7 @@ I loaded this file into Visual Studio Code to check the data, and I realized an 
   * There were some empty spaces in the 'savings' column. I solved this by filling those spaces with 0.
   * The raw file is MOCK_DATA.csv.
 
-**The second step** in this process is creating the database. I used MySQL to do this.
+__The second step__ in this process is creating the database. I used MySQL to do this.
 In the file Credit_Card_DB.sql, you can find the scripts for:
 
   * Creating the database (credit_card).
