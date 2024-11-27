@@ -9,7 +9,7 @@ I loaded this file into Visual Studio Code to check the data, and I realized an 
 **The second step** in this process is creating the database. I used MySQL to do this.
 In the file Credit_Card_DB.sql, you can find the scripts for:
 
-  * Creating the database (Credit_Card).
+  * Creating the database (credit_card).
   * Creating the table (customers).
   * Loading the data from the CSV file.
   * Some queries to check the database.
