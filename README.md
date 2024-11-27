@@ -7,7 +7,7 @@ I loaded this file into Visual Studio Code to check the data, and I realized an 
   * The raw file is [MOCK_DATA.csv](https://github.com/JaviDoria/Credit-Card-Project/tree/main/MOCK_DATA.csv).
 
 __The second step__ in this process is creating the database. I used MySQL to do this.
-In the file Credit_Card_DB.sql, you can find the scripts for:
+In the file [Credit_Card_DB.sql](https://github.com/JaviDoria/Credit-Card-Project/tree/main/Credit_Card_DB.sql), you can find the scripts for:
 
   * Creating the database (credit_card).
   * Creating the table (customers).
