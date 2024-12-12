@@ -16,3 +16,7 @@ In the file [Credit_Card_DB.sql](https://github.com/JaviDoria/Credit-Card-Projec
   * Creating the table (customers).
   * Loading the data from the CSV file.
   * Some queries to check the database.
+
+**The third step** now that I have a view and can understand the dataset details, is to create a dashboard that facilitates interpreting the data and simplifies decision-making regarding this product.
+To face this, I will use Power BI to create the dashboard.
+
