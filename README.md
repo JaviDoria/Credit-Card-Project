@@ -21,6 +21,3 @@ In the file [Credit_Card_DB.sql](https://github.com/JaviDoria/Credit-Card-Projec
 To face this, I will use Power BI to create the dashboard.
 
 
-**TEST**
-
-**AHORA HAGO SEGUND COMPROBACIÓN**
