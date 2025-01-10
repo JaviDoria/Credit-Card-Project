@@ -41,5 +41,5 @@ In this page the most important thing we can find it in the couple of cards in t
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Click here if you want to try the [DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiNjFhOTQzOGItOTNhOS00OWEzLWJiNzAtYWU5ZWVhYTIwYTYwIiwidCI6ImUzM2ExNjJlLWUwZDctNDA3NS05NWQyLWNmNDAyNWI5YWI3ZSIsImMiOjl9&pageName=9ac759e234e0993d8e52)
+Click if you want to try the [DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiNjFhOTQzOGItOTNhOS00OWEzLWJiNzAtYWU5ZWVhYTIwYTYwIiwidCI6ImUzM2ExNjJlLWUwZDctNDA3NS05NWQyLWNmNDAyNWI5YWI3ZSIsImMiOjl9&pageName=9ac759e234e0993d8e52)
 
