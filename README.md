@@ -26,6 +26,9 @@ In addition, we have some graphs where we can see information about the age and 
 At the top we have some cards that show the total number of available customers, the number of customers who have a home loan, how many have children and the average number of their children.
 
 ![Finance Overview](https://github.com/user-attachments/assets/f20e8afc-fffa-47a5-933c-0a66aeef3476)
+Finance Overview offer us important information such a how many customers has a positive balance or how many has savings.
+Also we can see a comparation of averages from monthly salary vs expenses and a graphic giving us important informations analizing the risky customers who are the ones have housing and personal loan. This is important because we can see that 74.2 % are possible convertions.
+Such the first page, we have some cards bringing us information like average monthly expenses, average savings and average monthly salary.
 
 ![Family Overview](https://github.com/user-attachments/assets/2439eebb-1a6a-45f8-9797-725498c365b4)
 
