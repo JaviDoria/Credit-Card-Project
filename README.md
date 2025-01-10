@@ -20,4 +20,10 @@ In the file [Credit_Card_DB.sql](https://github.com/JaviDoria/Credit-Card-Projec
 **The third step** now that I have a view and can understand the dataset details, is to create a dashboard that facilitates interpreting the data and simplifies decision-making regarding this product.
 To face this, I will use Power BI to create the dashboard.
 
+![General Overview](https://github.com/user-attachments/assets/2d56e820-e068-4b53-a463-0ec2ae46e422)
+
+![Finance Overview](https://github.com/user-attachments/assets/f20e8afc-fffa-47a5-933c-0a66aeef3476)
+
+![Family Overview](https://github.com/user-attachments/assets/2439eebb-1a6a-45f8-9797-725498c365b4)
+
 
