@@ -1,6 +1,6 @@
 # CREDIT CARD PROJECT:
 The purpose of this project is to carry out a complete Data Analytics process simulating a real case in a professional business. 
-The case focuses on a company planning to launch a new credit card with advantageous benefits, specifically targeting the Christmas season.  
+The case focuses on a company planning to launch a new credit card with advantageous benefits, specifically targeting people with certain financial characteristics.
 For this reason, it needs an analysis to identify which customers might qualify for it. Moreover, I will develop an app that predicts the ideal customer target for this product.   
 In addition to addressing this task for the company, I will provide them with an app that, with just a few questions, will indicate whether a customer is the ideal match for this product or not.  
 
@@ -21,6 +21,9 @@ In the file [Credit_Card_DB.sql](https://github.com/JaviDoria/Credit-Card-Projec
 To face this, I will use Power BI to create the dashboard.
 
 ![General Overview](https://github.com/user-attachments/assets/2d56e820-e068-4b53-a463-0ec2ae46e422)
+On this page we get an overview of the customers selected for this campaign, such as gender, marital and employment status. These three characteristics can be found on all pages.
+In addition, we have some graphs where we can see information about the age and educational level of the customers.
+At the top we have some cards that show the total number of available customers, the number of customers who have a home loan, how many have children and the average number of their children.
 
 ![Finance Overview](https://github.com/user-attachments/assets/f20e8afc-fffa-47a5-933c-0a66aeef3476)
 
