@@ -33,3 +33,6 @@ Such the first page, we have some cards bringing us information like average mon
 ![Family Overview](https://github.com/user-attachments/assets/2439eebb-1a6a-45f8-9797-725498c365b4)
 
 
+I leave the link if you want to use this dashboard: 
+[LINK](https://app.powerbi.com/view?r=eyJrIjoiNjFhOTQzOGItOTNhOS00OWEzLWJiNzAtYWU5ZWVhYTIwYTYwIiwidCI6ImUzM2ExNjJlLWUwZDctNDA3NS05NWQyLWNmNDAyNWI5YWI3ZSIsImMiOjl9&pageName=9ac759e234e0993d8e52)
+
