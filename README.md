@@ -32,6 +32,15 @@ Such the first page, we have some cards bringing us information like average mon
 
 ![Family Overview](https://github.com/user-attachments/assets/2439eebb-1a6a-45f8-9797-725498c365b4)
 
+In Family Overview we can see how many customers has incomes, loans and housing loans.  
+In this page the most important thing we can find it in the couple of cards in the top where the analyst finally make a recomendation in two points.  
+  * Match is the nunmber of customers that have less than 3 children, positive balance and doesn't have any loan. That means they are perffects for this product.
+  * Taget give a recomendation about how many customers with similar characteristics such Match but in this case this customers have just one loan, that means we must study each case to determinate if these are ably for the product.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 I leave the link if you want to use this dashboard: 
 [LINK](https://app.powerbi.com/view?r=eyJrIjoiNjFhOTQzOGItOTNhOS00OWEzLWJiNzAtYWU5ZWVhYTIwYTYwIiwidCI6ImUzM2ExNjJlLWUwZDctNDA3NS05NWQyLWNmNDAyNWI5YWI3ZSIsImMiOjl9&pageName=9ac759e234e0993d8e52)
