@@ -20,18 +20,17 @@ In the file [Credit_Card_DB.sql](https://github.com/JaviDoria/Credit-Card-Projec
 **The third step** now that I have a view and can understand the dataset details, is to create a dashboard that facilitates interpreting the data and simplifies decision-making regarding this product.
 To face this, I will use Power BI to create the dashboard.
 
-![General Overview](https://github.com/user-attachments/assets/2d56e820-e068-4b53-a463-0ec2ae46e422)
+![General Overview](https://github.com/user-attachments/assets/55293b26-4438-40cc-b754-c92390bb7459)
 On this page we get an overview of the customers selected for this campaign, such as gender, marital and employment status. These three characteristics can be found on all pages.
 In addition, we have some graphs where we can see information about the age and educational level of the customers.
 At the top we have some cards that show the total number of available customers, the number of customers who have a home loan, how many have children and the average number of their children.
 
-![Finance Overview](https://github.com/user-attachments/assets/f20e8afc-fffa-47a5-933c-0a66aeef3476)
+![Finance Overview](https://github.com/user-attachments/assets/4c0f6725-ce23-4a62-b07e-79a0ba0939fc)
 Finance Overview offer us important information such a how many customers has a positive balance or how many has savings.
 Also we can see a comparation of averages from monthly salary vs expenses and a graphic giving us important informations analizing the risky customers who are the ones have housing and personal loan. This is important because we can see that 74.2 % are possible convertions.
 Such the first page, we have some cards bringing us information like average monthly expenses, average savings and average monthly salary.
 
-![Family Overview](https://github.com/user-attachments/assets/2439eebb-1a6a-45f8-9797-725498c365b4)
-
+![Family Overview](https://github.com/user-attachments/assets/893d7db9-41a0-4f4c-9cea-93b7fa302280)
 In the Family Overview, we can see how many customers have incomes, loans, and housing loans.
 On this page, the most important information is highlighted in the two cards at the top, where the analyst provides recommendations based on two key points:
   *  Match: This represents the number of customers who have fewer than three children, a positive balance, and no loans. These customers are ideal candidates for this product.
