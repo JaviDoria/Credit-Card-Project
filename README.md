@@ -32,10 +32,11 @@ Such the first page, we have some cards bringing us information like average mon
 
 ![Family Overview](https://github.com/user-attachments/assets/2439eebb-1a6a-45f8-9797-725498c365b4)
 
-In Family Overview we can see how many customers has incomes, loans and housing loans.  
-In this page the most important thing we can find it in the couple of cards in the top where the analyst finally make a recomendation in two points.  
-  * Match is the nunmber of customers that have less than 3 children, positive balance and doesn't have any loan. That means they are perffects for this product.
-  * Taget give a recomendation about how many customers with similar characteristics such Match but in this case this customers have just one loan, that means we must study each case to determinate if these are ably for the product.
+In the Family Overview, we can see how many customers have incomes, loans, and housing loans.
+On this page, the most important information is highlighted in the two cards at the top, where the analyst provides recommendations based on two key points:
+  *  Match: This represents the number of customers who have fewer than three children, a positive balance, and no loans. These customers are ideal candidates for this product.
+  *  Target: This provides a recommendation regarding customers with similar characteristics to those in the "Match" category, but in this case, these customers have a single loan. This means each case must be 
+  carefully studied to determine whether they qualify for the product.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
