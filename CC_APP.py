@@ -21,17 +21,34 @@ Please fill out the form below to see the results.
 # Define input fields for the app
 st.header("Enter the required details:")
 
-# Replace these with actual feature descriptions
-age = st.number_input("Age (e.g., 25):", min_value=0, max_value=120, step=1)
-salary = st.number_input("Monthly Income in USD (e.g., 3000):", min_value=0, max_value=100000, step=100)
-gender = st.selectbox("Gender:", options=["Male", "Female"])
-experience = st.number_input("Years of Work Experience (e.g., 5):", min_value=0, max_value=50, step=1)
+# Input fields for the updated features
+number_of_children = st.number_input(
+    "Number of Children (e.g., 2):", min_value=0, max_value=20, step=1
+)
+current_salary = st.number_input(
+    "Current Monthly Salary in € (e.g., 3000):", min_value=0, max_value=200000, step=100
+)
+savings = st.number_input(
+    "Total Savings in € (e.g., 10000):", min_value=0, max_value=1000000, step=500
+)
+housing = st.selectbox(
+    "Do you own a house? (Yes/No):", options=["Yes", "No"]
+)
+current_loans = st.selectbox(
+    "Do you have any current loans? (Yes/No):", options=["Yes", "No"]
+)
+monthly_expenses = st.number_input(
+    "Monthly Expenses in € (e.g., 1500):", min_value=0, max_value=50000, step=100
+)
 
-# Convert gender input to numeric value
-gender_numeric = 0 if gender == "Male" else 1
+# Convert categorical variables to numeric
+housing_numeric = 1 if housing == "Yes" else 0
+current_loans_numeric = 1 if current_loans == "Yes" else 0
 
 # Prepare input data
-input_data = np.array([[age, salary, gender_numeric, experience]])
+input_data = np.array(
+    [[number_of_children, current_salary, savings, housing_numeric, current_loans_numeric, monthly_expenses]]
+)
 
 # Scale the input data
 input_data_scaled = scaler.transform(input_data)
@@ -48,5 +65,4 @@ if st.button("Predict"):
     st.write(f"Probability of Positive Outcome: **{prediction_proba[0][1] * 100:.2f}%**")
     st.write(f"Probability of Negative Outcome: **{prediction_proba[0][0] * 100:.2f}%**")
 
-    st.info("This prediction is based on the data you entered. Please consult a professional for detailed insights.")
-
+    st.info("This prediction is based on the data you entered. Pleas
