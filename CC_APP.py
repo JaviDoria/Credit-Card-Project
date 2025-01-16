@@ -32,7 +32,7 @@ savings = st.number_input(
     "Total Savings in € (e.g., 10000):", min_value=0, max_value=1000000, step=500
 )
 housing = st.selectbox(
-    "Do you own a house? (Yes/No):", options=["Yes", "No"]
+    "Do you have any housing loan? (Yes/No):", options=["Yes", "No"]
 )
 current_loans = st.selectbox(
     "Do you have any current loans? (Yes/No):", options=["Yes", "No"]
