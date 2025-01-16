@@ -65,4 +65,4 @@ if st.button("Predict"):
     st.write(f"Probability of Positive Outcome: **{prediction_proba[0][1] * 100:.2f}%**")
     st.write(f"Probability of Negative Outcome: **{prediction_proba[0][0] * 100:.2f}%**")
 
-    st.info("This prediction is based on the data you entered. Pleas
+    st.info("This prediction is based on the data you entered. Please consult a professional for detailed insights.")
