@@ -2,6 +2,18 @@ import streamlit as st
 import pickle
 import numpy as np
 
+# Custom CSS for background color
+st.markdown(
+    """
+    <style>
+    body {
+        background-color: #e8f5e9; /* Verde suave */
+    }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
+
 # Load the trained model and scaler
 with open('logistic_model.pkl', 'rb') as model_file:
     model = pickle.load(model_file)
@@ -49,7 +61,7 @@ current_loans_numeric = 1 if current_loans == "Yes" else 0
 input_data = np.array(
     [[number_of_children, current_salary, savings, housing_numeric, current_loans_numeric, monthly_expenses]]
 )
-" housing_numeric, current_loans_numeric,"
+
 # Scale the input data
 input_data_scaled = scaler.transform(input_data)
 
