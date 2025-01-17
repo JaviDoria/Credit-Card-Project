@@ -56,4 +56,4 @@ Once I had finished all the steps, I continued with the final one.
 Here you have the final --> [APP](https://cc-app-customer.streamlit.app/)
 
 
-**Thank you very much for following this process. I would be delighted to receive your comments and advice.
+## **Thank you very much for following this process. I would be delighted to receive your comments and advice.**
