@@ -4,13 +4,13 @@ import numpy as np
 
 # Custom CSS for background color
 st.markdown(
-    """
+    
     <style>
     body {
         background-color: #e8f5e9; /* Verde suave */
     }
     </style>
-    """,
+    ,
     unsafe_allow_html=True,
 )
 
