@@ -47,7 +47,7 @@ Click if you want to try the [DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoi
 **The fourth step** Following the plan, I developed a Machine Learning model. I decided to use a classification model, specifically a Logistic Regression model, for this project. After training the model, I reviewed its performance metrics.
 All the process is detailed in this Jupyter Notebook --> [CC_Model.ipynb](https://github.com/JaviDoria/Credit-Card-Project/blob/8c59055dacbe30c6841313eee80cad52ca735593/CC_Model.ipynb) 
 
-Once I got all the process finished, I continued with the final step.
+Once I had finished all the steps, I continued with the final one.  
 
 **The Fifth step** I used Streamlit to deploy a user-friendly app, designed to help workers quickly and easily determine if a customer qualifies for this product.  The code for the app is this --> [CC_APP.py](https://github.com/JaviDoria/Credit-Card-Project/blob/8c59055dacbe30c6841313eee80cad52ca735593/CC_APP.py)
 
