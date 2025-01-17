@@ -43,3 +43,6 @@ On this page, the most important information is highlighted in the two cards at 
 
 Click if you want to try the [DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiNjFhOTQzOGItOTNhOS00OWEzLWJiNzAtYWU5ZWVhYTIwYTYwIiwidCI6ImUzM2ExNjJlLWUwZDctNDA3NS05NWQyLWNmNDAyNWI5YWI3ZSIsImMiOjl9&pageName=9ac759e234e0993d8e52)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**The fourth step** Following the plan, I made a Machine Learning model. I decide to use a Logistic Regression model for this project en all the process is detailed in 
+Here you have the final [APP](https://cc-app-customer.streamlit.app/)
