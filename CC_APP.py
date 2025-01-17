@@ -47,9 +47,9 @@ current_loans_numeric = 1 if current_loans == "Yes" else 0
 
 # Prepare input data
 input_data = np.array(
-    [[number_of_children, current_salary, savings, monthly_expenses]] " housing_numeric, current_loans_numeric,"
+    [[number_of_children, current_salary, savings, monthly_expenses]] 
 )
-
+" housing_numeric, current_loans_numeric,"
 # Scale the input data
 input_data_scaled = scaler.transform(input_data)
 
