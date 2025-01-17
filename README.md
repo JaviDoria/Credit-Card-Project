@@ -49,9 +49,11 @@ All the process is detailed in this Jupyter Notebook --> [CC_Model.ipynb](https:
 
 Once I had finished all the steps, I continued with the final one.  
 
-**The Fifth step** I used Streamlit to deploy a user-friendly app, designed to help workers quickly and easily determine if a customer qualifies for this product.  The code for the app is this --> [CC_APP.py](https://github.com/JaviDoria/Credit-Card-Project/blob/8c59055dacbe30c6841313eee80cad52ca735593/CC_APP.py)
+**The Fifth step** I used Streamlit to deploy a user-friendly app, designed to help workers quickly and easily determine if a customer qualifies for this product. 
+ 
+   The code for the app is this --> [CC_APP.py](https://github.com/JaviDoria/Credit-Card-Project/blob/8c59055dacbe30c6841313eee80cad52ca735593/CC_APP.py)
 
-Here you have the final [APP](https://cc-app-customer.streamlit.app/)
+Here you have the final --> [APP](https://cc-app-customer.streamlit.app/)
 
 
 **Thank you very much for following this process. I would be delighted to receive your comments and advice.
