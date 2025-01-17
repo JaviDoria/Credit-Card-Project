@@ -2,18 +2,6 @@ import streamlit as st
 import pickle
 import numpy as np
 
-# Custom CSS for background color
-st.markdown(
-    
-    <style>
-    body {
-        background-color: #e8f5e9; /* Verde suave */
-    }
-    </style>
-    ,
-    unsafe_allow_html=True,
-)
-
 # Load the trained model and scaler
 with open('logistic_model.pkl', 'rb') as model_file:
     model = pickle.load(model_file)
@@ -74,7 +62,7 @@ if st.button("Predict"):
     st.subheader("Prediction Results:")
     result = "Yes" if prediction[0] == 1 else "No"
     st.write(f"Prediction: **{result}**")
-    st.write(f"Probability of Positive Outcome: **{prediction_proba[0][1] * 100:.2f}%**")
-    st.write(f"Probability of Negative Outcome: **{prediction_proba[0][0] * 100:.2f}%**")
 
     st.info("This prediction is based on the data you entered. Please consult a professional for detailed insights.")
+    st.info("APP developed by Javi Doria.")
+
